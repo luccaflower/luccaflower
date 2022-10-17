@@ -4,8 +4,9 @@ I'm Lucca, a transfem software developer who currently lives in Uppsala, Sweden!
 ## Languages & Technologigies
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccaflower&theme=gruvbox&show_icons=true)
 
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch-orange?style=for-the-badge&logo=archlinux&logoColor=white)
-![Nvim](https://img.shields.io/badge/neovim-orange?style=for-the-badge&logo=neovim&logoColor=white)
-![Nvim](https://img.shields.io/badge/intellij-orange?style=for-the-badge&logo=intellijidea&logoColor=white)
-![JUnit](https://img.shields.io/badge/junit5-orange?style=for-the-badge&logo=junit5&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch-d65d0e?style=for-the-badge&logo=archlinux&logoColor=fbf1f7)
+![zsh](https://img.shields.io/badge/zsh-d65d0e?style=for-the-badge&logo=gnubash&logoColor=fbf1f7)
+![Nvim](https://img.shields.io/badge/neovim-d65d0e?style=for-the-badge&logo=neovim&logoColor=fbf1f7)
+![Git](https://img.shields.io/badge/Git-d65d0e?style=for-the-badge&logo=Git&logoColor=fbf1f7)
+![Intellij](https://img.shields.io/badge/intellij-d65d0e?style=for-the-badge&logo=intellijidea&logoColor=fbf1f7)
+![JUnit](https://img.shields.io/badge/junit5-d65d0e?style=for-the-badge&logo=junit5&logoColor=fbf1f7)
