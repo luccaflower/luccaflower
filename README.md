@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm Lucca, a transfem software developer who currently lives in Uppsala, Sweden! I code Java professionally, and I've previously made projects in Rust and C#.
 
-## Languages & Technologigies
+## Languages & Technologies
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccaflower&theme=gruvbox&show_icons=true)
 
 ![Arch](https://img.shields.io/badge/Arch-d65d0e?style=for-the-badge&logo=archlinux&logoColor=fbf1f7)
